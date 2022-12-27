@@ -1,0 +1,9 @@
+C:\Users\enes.sara\Desktop\TextToSpeech-master\TxtToSpeech\bin\Debug\TxtToSpeech.exe.config
+C:\Users\enes.sara\Desktop\TextToSpeech-master\TxtToSpeech\bin\Debug\TxtToSpeech.exe
+C:\Users\enes.sara\Desktop\TextToSpeech-master\TxtToSpeech\bin\Debug\TxtToSpeech.pdb
+C:\Users\enes.sara\Desktop\TextToSpeech-master\TxtToSpeech\obj\Debug\TxtToSpeech.csprojAssemblyReference.cache
+C:\Users\enes.sara\Desktop\TextToSpeech-master\TxtToSpeech\obj\Debug\TxtToSpeech.Form1.resources
+C:\Users\enes.sara\Desktop\TextToSpeech-master\TxtToSpeech\obj\Debug\TxtToSpeech.Properties.Resources.resources
+C:\Users\enes.sara\Desktop\TextToSpeech-master\TxtToSpeech\obj\Debug\TxtToSpeech.csproj.GenerateResource.cache
+C:\Users\enes.sara\Desktop\TextToSpeech-master\TxtToSpeech\obj\Debug\TxtToSpeech.exe
+C:\Users\enes.sara\Desktop\TextToSpeech-master\TxtToSpeech\obj\Debug\TxtToSpeech.pdb
